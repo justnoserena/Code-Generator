@@ -1,4 +1,3 @@
-
 # Password Generator
 The goal is to create a password generating program that follows the 
 following criteria, given by the instructor. 
