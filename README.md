@@ -1,5 +1,5 @@
-# Challenge_3
-## Password Generator
+
+# Password Generator
 The goal is to create a password generating program that follows the 
 following criteria, given by the instructor. 
 
@@ -20,3 +20,8 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
+## Image
+![Finished Website](./assets/password-gen.PNG)
+### Links
+[Github Repository](https://github.com/justnoserena/Challenge_3)
+[Live Website](https://justnoserena.github.io/Code-Generator/)
